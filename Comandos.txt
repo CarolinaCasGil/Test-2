@@ -1,0 +1,6 @@
+1-Crear el repositorio
+2-Clonar el repositorio en locarl: git clone
+3-Crear diferenetes archivos
+4-Añadir los archivos creados git add -A
+5-Darle un commit a cada archivo git commit -m "mensaje dado"
+6-pusear los archicos git push
