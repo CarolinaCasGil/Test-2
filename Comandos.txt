@@ -4,3 +4,4 @@
 4-Añadir los archivos creados git add -A
 5-Darle un commit a cada archivo git commit -m "mensaje dado"
 6-pusear los archicos git push
+7-Voy a modificar este archivo 
