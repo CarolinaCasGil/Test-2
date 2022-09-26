@@ -5,3 +5,7 @@
 5-Darle un commit a cada archivo git commit -m "mensaje dado"
 6-pusear los archicos git push
 7-Voy a modificar este archivo 
+8-He hecho un git pull para traer los cambios que he ehcho en la pagina de github 
+9-Añadir los archivos creados git add -A
+10-Darle un commit a cada archivo git commit -m "mensaje dado"
+11-Pusear los archicos git push
